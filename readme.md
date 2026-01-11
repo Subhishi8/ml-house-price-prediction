@@ -23,7 +23,7 @@ The target variable is **MEDV** (Median House Value).
 
 ---
 
-## 🧠 Models Used
+# Models Used
 - Linear Regression (baseline model)
 - Decision Tree Regressor (max_depth = 5)
 - Random Forest Regressor (100 estimators, max_depth = 10)
